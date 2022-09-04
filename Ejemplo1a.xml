@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="Ejemplo1.css"?>
+<!-- ejemplo1.xml  VR16021 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Carlos </nombre>
+<apellido>Vasquez</apellido>
+<direccion>Colinas del Norte, 9</direccion>
+<paginaweb>http://xml.vr16021.tpi</paginaweb>
+</ficha>
+</fichero>

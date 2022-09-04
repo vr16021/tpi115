@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="Ejemplo1.css"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+
+<!-- ejemplo2.xml  vr16021 -->
+<pais nombre="El Salvador">
+<codigoTel nombre="503" ></codigoTel>
+<moneda nombre="dolar" ></moneda>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="La Libertad">
+<cabecera>Santa Tecla</cabecera>
+<habitantes>1,000,000</habitantes>
+<altura>400 MSNM</altura>
+</departamento>
+<departamento id="3" nombre="Sonsonate">
+<cabecera>Sonsonate</cabecera>
+<habitantes>70000</habitantes>
+<altura>200 MSNM</altura>
+</departamento>
+</pais>
